@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 ## Im buid with 🛠️
 
 * Laravel & Vue Projects
-        - [CRM Project](https://github.com/jjmontalban/gbc)
-        - [Filmder](https://github.com/jjmontalban/filmder)
-        - [Twitter Api] (https://github.com/jjmontalban/api-twitter)
+        * [CRM Project](https://github.com/jjmontalban/gbc)
+        * [Filmder](https://github.com/jjmontalban/filmder)
+        * [Twitter Api] (https://github.com/jjmontalban/api-twitter)
         - [TMDB Api] (https://github.com/jjmontalban/movie-match)
         - [Vue Plugins](https://github.com/jjmontalban/LVB)
         - [PHP Packages](https://github.com/jjmontalban/BORME)
