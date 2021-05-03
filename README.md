@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Laravel & Wordpress and learning Vue
-
+I'm JJMontalban. I’m currently working on Laravel & Wordpress and learning Vue
 
 ## Im buid with 🛠️
 
@@ -26,6 +23,16 @@ Here are some ideas to get you started:
 
 * [Github Pages](https://jjmontalban.github.io)
 
+## You can find me on
+
+* [Face](https://www.facebook.com/jjm0ntalban)
+* [Flick](https://www.flickr.com/photos/kinkijurado/)
+* [Be](https://www.behance.net/jjmontalban)
+* [Linked](https://www.linkedin.com/in/jjmontalban/)
+* [Stack](https://stackoverflow.com/users/11540055/jjmontalban)
+* [Spoty](https://open.spotify.com/user/kinorro?si=Pk1jXLNHS-ildPBBtPObmA&nd=1)
+* [Chess](https://www.chess.com/member/jjmontalban)
+* [IMDB](https://www.imdb.com/user/ur22137408/)
 
 
 
