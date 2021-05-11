@@ -14,6 +14,7 @@ I'm JJMontalban. I’m currently working on Laravel & Wordpress and learning Vue
   * [PHP Packages](https://github.com/jjmontalban/BORME)
 
 * Wordpress Project
+  * [WP Snippets](https://gist.github.com/jjmontalban)
   * [WP Api Rest](https://github.com/jjmontalban/wp-vue/blob/develop/wordpress/wp-content/themes/wp-vue/functions.php)
   * [WP plugins](https://github.com/jjmontalban/wp-vue/blob/develop/wordpress/wp-content/plugins/ps_tables.php)
   * [Build WP themes with Underscores](https://github.com/automattic/_s)
