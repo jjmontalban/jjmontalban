@@ -7,9 +7,8 @@ I'm JJMontalban. I’m currently working on Laravel & Wordpress and learning Vue
 
 * Laravel & Vue Projects
   * [CRM Project](https://github.com/jjmontalban/gbc)
-  * [Filmder](https://github.com/jjmontalban/filmder)
+  * [Filmder (TMDB Api)](https://github.com/jjmontalban/movie-match)
   * [Twitter Api](https://github.com/jjmontalban/api-twitter)
-  * [TMDB Api](https://github.com/jjmontalban/movie-match)
   * [Vue Plugins](https://github.com/jjmontalban/LVB)
   * [PHP Packages](https://github.com/jjmontalban/BORME)
 
