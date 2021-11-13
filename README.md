@@ -14,7 +14,7 @@ I'm JJMontalban. I’m currently working on Laravel & Wordpress and learning Vue
 
 * Wordpress Project
   * [WP Snippets](https://gist.github.com/jjmontalban)
-  * [WP Api Rest](https://github.com/jjmontalban/wp-vue/blob/develop/wordpress/wp-content/themes/wp-vue/functions.php)
+  * [WP Headless & Api Rest](https://github.com/jjmontalban/wp-vue)
   * [WP plugins](https://github.com/jjmontalban/wp-vue/blob/develop/wordpress/wp-content/plugins/ps_tables.php)
   * [Build WP themes with Underscores](https://github.com/automattic/_s)
   * [External packages](https://github.com/jjmontalban/wp-vue/blob/develop/vue/src/views/Crud.vue)
