@@ -6,7 +6,8 @@ I'm JJMontalban. I’m currently working on Laravel & Wordpress and learning Vue
 ## Im buid with 🛠️
 
 * Laravel & Vue Projects
-  * [CRM Project](https://github.com/jjmontalban/gbc)
+  * [CRM Project with Vue Components](https://github.com/jjmontalban/gbc)
+  * [Laravel 8 & Boostrap/Blade/Ajax Front](https://github.com/jjmontalban/galactic-crm)
   * [Filmder (TMDB Api)](https://github.com/jjmontalban/movie-match)
   * [Twitter Api](https://github.com/jjmontalban/api-twitter)
   * [Vue Plugins](https://github.com/jjmontalban/LVB)
