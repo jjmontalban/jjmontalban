@@ -33,8 +33,8 @@
 
 * Other Projects
 
-* [Capitals:](https://github.com/jjmontalban/capitalsGame/blob/master/index.html) Js Game
-* [Github Pages:](https://jjmontalban.github.io) Personal Portfolio with Js libraries
+  * [Capitals:](https://github.com/jjmontalban/capitalsGame/blob/master/index.html) Js Game
+  * [Github Pages:](https://jjmontalban.github.io) Personal Portfolio with Js libraries
 
 
 ## You can find me on
