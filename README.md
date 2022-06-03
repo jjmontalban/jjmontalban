@@ -3,13 +3,14 @@
   <a href="https://jjmontalban.github.io" target="_blank">
     <img alt="jj-logo" height="70" alt="Amplication Logo" src="https://filmder.jjmontalban.com/img/logoJJ.png"/>
   </a>
+  <br>
+  Hi there 👋
+  <br>
+  I'm JJMontalban. I’m currently working on Laravel & Wordpress, Vue, jQuery...
 </p>
+ <br>
 
 
-### Hi there 👋
-
-
-I'm JJMontalban. I’m currently working on Laravel & Wordpress, Vue, jQuery...
 
 ## Im buid with 🛠️
 
