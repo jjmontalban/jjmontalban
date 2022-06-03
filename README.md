@@ -1,28 +1,32 @@
 ### Hi there 👋
 
 
-I'm JJMontalban. I’m currently working on Laravel & Wordpress and learning Vue
+I'm JJMontalban. I’m currently working on Laravel & Wordpress, Vue, jQuery...
 
 ## Im buid with 🛠️
 
-* Laravel & Vue Projects
-  * [CRM Project with Vue Components](https://github.com/jjmontalban/gbc)
-  * [Laravel 8 & Boostrap/Blade/Ajax Front](https://github.com/jjmontalban/galactic-crm)
-  * [Filmder (TMDB Api)](https://github.com/jjmontalban/movie-match)
-  * [Twitter Api](https://github.com/jjmontalban/api-twitter)
+* Wordpress
+
+  * [WP Api Rest](https://github.com/jjmontalban/filmder-back): Back side of WP Headless
+  * [WP Vue](https://github.com/jjmontalban/filmder-front): Front side of WP Headless
+  * [WP plugin](https://github.com/jjmontalban/ps-webservice): Sincronize WP & Prestashop data via webservice 
+  * [WP plugin](https://github.com/jjmontalban/wp-customers): Custom admin view for Woocommerce customers 
+  * [WP Theme](https://github.com/jjmontalban/caramelotattoo): Custom template with [_underscores](https://underscores.me/)
+  * [WP Snippets](https://gist.github.com/jjmontalban)
+
+
+* Laravel
+
+  * [Laravel & Vue](https://github.com/jjmontalban/gbc): Custom CRM Project with Laravel & Vue Components
   * [Vue Plugins](https://github.com/jjmontalban/LVB)
   * [PHP Packages](https://github.com/jjmontalban/BORME)
 
-* Wordpress Project
-  * [WP Snippets](https://gist.github.com/jjmontalban)
-  * [WP Headless & Api Rest](https://github.com/jjmontalban/wp-vue)
-  * [WP plugins](https://github.com/jjmontalban/wp-vue/blob/develop/wordpress/wp-content/plugins/ps_tables.php)
-  * [Build WP themes with Underscores](https://github.com/automattic/_s)
-  * [External packages](https://github.com/jjmontalban/wp-vue/blob/develop/vue/src/views/Crud.vue)
 
-* [VanillaJs](https://github.com/jjmontalban/capitalsGame/blob/master/index.html)
+* Other Projects
 
-* [Github Pages](https://jjmontalban.github.io)
+* [Capitals](https://github.com/jjmontalban/capitalsGame/blob/master/index.html): Js Game
+* [Github Pages](https://jjmontalban.github.io): Personal Portfolio with Js libraries
+
 
 ## You can find me on
 
