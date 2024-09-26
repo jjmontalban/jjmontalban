@@ -6,7 +6,7 @@
   <br>
   I'm currently working on web.
   <br><br>
-  With languages:
+  With:
   <br><br>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <br><br>
-On frameworks:
+On:
 <br><br>
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
@@ -40,12 +40,12 @@ With Tools like:
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 <img src="https://img.shields.io/badge/_underscore-0371B5?style=for-the-badge&logo=underscore.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
+<img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
 <br>
 </p>
 <p align="center">
 At least once I have used:
 <br><br>
-<img src="https://img.shields.io/badge/gimp-%235C5543.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
 <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=white" />
 <img src="https://img.shields.io/badge/joomla-%235091CD.svg?&style=for-the-badge&logo=joomla&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -64,7 +64,6 @@ At least once I have used:
 <img src="https://img.shields.io/badge/bower-%23EF5734.svg?&style=for-the-badge&logo=bower&logoColor=white" />
 <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/cpanel-%23FF6C2C.svg?&style=for-the-badge&logo=cpanel&logoColor=white" />
-<img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br><br>
 You can find me on:<br><br>
