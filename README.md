@@ -74,21 +74,11 @@ You can find me on:<br><br>
 <img src="https://img.shields.io/badge/imdb-%23E6B91E.svg?&style=for-the-badge&logo=imdb&logoColor=black" />
 <img src="https://img.shields.io/badge/unsplash-%23000000.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />
 </p>
-<p align="center">1
-  <img src="https://github.com/jjmontalban/jjmontalban/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
-</p>
 
-<p align="center">2
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjmontalban&theme=radical" alt="GitHub Profile Summary Cards" />
 </p>
 
-<p align="center">3
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmontalban&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">4
-  <img src="https://github-readme-stats.vercel.app/api?username=jjmontalban&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
 <p align="center">
 Thankfulness 🎁
 <br><br>
