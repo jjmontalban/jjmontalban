@@ -76,10 +76,21 @@ You can find me on:<br><br>
 <img src="https://img.shields.io/badge/imdb-%23E6B91E.svg?&style=for-the-badge&logo=imdb&logoColor=black" />
 <img src="https://img.shields.io/badge/unsplash-%23000000.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />
 </p>
-![GitHub Snake Light](https://github.com/jjmontalban/jjmontalban/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjmontalban&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jjmontalban&layout=compact&theme=radical)
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jjmontalban&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github.com/jjmontalban/jjmontalban/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjmontalban&theme=radical" alt="GitHub Profile Summary Cards" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmontalban&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjmontalban&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
 
 
 <p align="center">
