@@ -70,29 +70,13 @@ You can find me on:<br><br>
 <img src="https://img.shields.io/badge/flickr-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white" />
 <img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" />
 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white" />
 <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-<img src="https://img.shields.io/badge/lichess-%23000000.svg?&style=for-the-badge&logo=lichess&logoColor=white" />
 <img src="https://img.shields.io/badge/imdb-%23E6B91E.svg?&style=for-the-badge&logo=imdb&logoColor=black" />
 <img src="https://img.shields.io/badge/unsplash-%23000000.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://github.com/jjmontalban/jjmontalban/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
 </p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjmontalban&theme=radical" alt="GitHub Profile Summary Cards" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmontalban&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjmontalban&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
-
 <p align="center">
 Thankfulness 🎁
 <br><br>
