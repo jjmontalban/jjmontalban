@@ -1,12 +1,10 @@
 <p align="center">
-
+  Hi there 👋. I'm
   <a href="https://jjmontalban.github.io" target="_blank">
     <img alt="jj-logo" height="70" alt="Amplication Logo" src="https://jjmontalban.github.io/images/logoJJ.png"/>
   </a>
   <br>
-  Hi there 👋
-  <br>
-  I'm JJMontalban. I’m currently working on web.
+  I'm currently working on web.
   <br><br>
   With languages 🛠️
   <br><br>
