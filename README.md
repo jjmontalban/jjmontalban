@@ -67,32 +67,20 @@ At least once I have used:
 <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br><br>
 You can find me on:<br><br>
-  <a href="https://www.flickr.com/photos/kinkijurado/">
-      <img src="https://img.shields.io/badge/flickr-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white" />
-  </a>
-   <a href="https://www.behance.net/jjmontalban">
-      <img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jjmontalban/">
-      <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/11540055/jjmontalban">
-      <img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white" />
-  </a><br>
-  <a href="https://open.spotify.com/user/kinorro?si=Pk1jXLNHS-ildPBBtPObmA&nd=1">
-      <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/jjmontalban">
-      <img src="https://img.shields.io/badge/lichess-%23000000.svg?&style=for-the-badge&logo=lichess&logoColor=white" />
-  </a>
-  <a href="https://www.imdb.com/user/ur22137408/">
-      <img src="https://img.shields.io/badge/imdb-%23E6B91E.svg?&style=for-the-badge&logo=imdb&logoColor=black" />
-  </a>
-    <a href="https://www.unsplash.com/jjmontalban">
-      <img src="https://img.shields.io/badge/unsplash-%23000000.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />
-
-  </a>
+<img src="https://img.shields.io/badge/flickr-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white" />
+<img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack%20overflow&logoColor=white" />
+<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/lichess-%23000000.svg?&style=for-the-badge&logo=lichess&logoColor=white" />
+<img src="https://img.shields.io/badge/imdb-%23E6B91E.svg?&style=for-the-badge&logo=imdb&logoColor=black" />
+<img src="https://img.shields.io/badge/unsplash-%23000000.svg?&style=for-the-badge&logo=unsplash&logoColor=white" />
 </p>
+![GitHub Snake Light](https://github.com/jjmontalban/jjmontalban/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjmontalban&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jjmontalban&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jjmontalban&show_icons=true&theme=radical)
+
 <p align="center">
 Thankfulness 🎁
 <br><br>
