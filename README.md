@@ -23,6 +23,12 @@ On:
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/_underscore-0371B5?style=for-the-badge&logo=underscore.js&logoColor=white" />
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
+<img src="https://img.shields.io/badge/vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white" />
+<img src="https://img.shields.io/badge/bulma-%2300D1B2.svg?&style=for-the-badge&logo=bulma&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <br><br>
 With Tools like:
 <br><br>
@@ -31,40 +37,21 @@ With Tools like:
 <img width="36" src="https://mir-s3-cdn-cf.behance.net/projects/404/00721791097665.Y3JvcCwxMzAwLDEwMTYsMCwxMg.png"/>
 <img src="https://img.shields.io/badge/composer-%23885630.svg?&style=for-the-badge&logo=composer&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/composer-%23885630.svg?&style=for-the-badge&logo=composer&logoColor=white"/>
 <img src="https://img.shields.io/badge/plesk-%2352BBE6.svg?&style=for-the-badge&logo=plesk&logoColor=black" />
-<img src="https://img.shields.io/badge/xampp-%23FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/json-%23000000.svg?&style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-<img src="https://img.shields.io/badge/_underscore-0371B5?style=for-the-badge&logo=underscore.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
-<br>
-</p>
-<p align="center">
-At least once I have used:
-<br><br>
 <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&style=for-the-badge&logo=yarn&logoColor=white" />
-<img src="https://img.shields.io/badge/joomla-%235091CD.svg?&style=for-the-badge&logo=joomla&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
 <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
-<img src="https://img.shields.io/badge/vuetify-%231867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white" />
-<img src="https://img.shields.io/badge/bulma-%2300D1B2.svg?&style=for-the-badge&logo=bulma&logoColor=white" />
 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/bower-%23EF5734.svg?&style=for-the-badge&logo=bower&logoColor=white" />
-<img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/cpanel-%23FF6C2C.svg?&style=for-the-badge&logo=cpanel&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 <br><br>
 You can find me on:<br><br>
 <img src="https://img.shields.io/badge/flickr-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white" />
