@@ -36,9 +36,9 @@ With Tools like:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img width="36" src="https://mir-s3-cdn-cf.behance.net/projects/404/00721791097665.Y3JvcCwxMzAwLDEwMTYsMCwxMg.png"/>
 <img src="https://img.shields.io/badge/composer-%23885630.svg?&style=for-the-badge&logo=composer&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/plesk-%2352BBE6.svg?&style=for-the-badge&logo=plesk&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
 <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
@@ -48,10 +48,9 @@ With Tools like:
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" />
-<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/bower-%23EF5734.svg?&style=for-the-badge&logo=bower&logoColor=white" />
-</p>
 <br><br>
 You can find me on:<br><br>
 <img src="https://img.shields.io/badge/flickr-%230063DC.svg?&style=for-the-badge&logo=flickr&logoColor=white" />
